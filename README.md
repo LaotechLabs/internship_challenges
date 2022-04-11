@@ -8,8 +8,7 @@ This repo comprises of the challenge problems that an applicant needs to solve i
     - [Data Engineering](data_engineering) If you are applying for the position of Data Engineer.
     - [Computer Vision](computer_vision) If you are applying for the position of Computer Vision Engineer.
 
-2. Please attempt to problem honestly. While we encourage you to take help from online portals or your friends/colleagues 
-avoid blatant plagiarism. 
+2. Please attempt the problem honestly. While we encourage you to take help from online portals or your friends/colleagues, blatant plagiarism will lead to disqualification. 
 
 
 ### Submission
