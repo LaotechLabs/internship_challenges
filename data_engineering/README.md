@@ -1,7 +1,7 @@
 # Data Engineering Challenge
 
 ## Dataset
-**Company X** Our [social media data](https://drive.google.com/drive/folders/1P8GOk0DGW_JTjCPeM9P8LOnCLIXh7oGl?usp=sharing) has the following datasets
+**Company X's** [social media data](https://drive.google.com/drive/folders/1P8GOk0DGW_JTjCPeM9P8LOnCLIXh7oGl?usp=sharing) comprises the following datasets
 
 ### Facebook
 1. fb_daily_age_gender: Breakdown of daily facebook ads insights by age and gender.
@@ -48,8 +48,8 @@ Host a postgres server. There are several ways to accomplish this.
   - Download and use the psql directly [link](https://www.postgresqltutorial.com/postgresql-getting-started/)
 3. Use AWS RDS's free tier [link](https://aws.amazon.com/rds/free/)
 
-## Task 3
-### Insert data to Postgres - 30 Points
+## Task 3 - 30 Points
+### Insert data to Postgres 
 Sync the dashboard data-frame created in "Task 1" to the Postgres server hosted in "Task 2".
 1. Create a primary key to uniquely identify each row in the dataframe.
 2. Programmatically create a new schema for "Company X" called "company_x".
