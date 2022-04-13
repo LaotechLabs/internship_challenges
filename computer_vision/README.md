@@ -4,6 +4,8 @@
 ## Dataset
 **Company X's** [Ad Campaign Creatives](https://drive.google.com/drive/folders/1La9Vvn4CI5Sz98DjvbZbHvPGOGin7hSC?usp=sharing) comprises  of creatives from different brands. 
 
+
+![tasks](https://github.com/MaayaLabs/internship_challenges/blob/main/computer_vision/img/impainting.png?raw=true)
 ## Tasks
 
 ## Task 1 - 40 Points
