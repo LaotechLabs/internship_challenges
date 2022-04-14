@@ -54,7 +54,7 @@ Sync the dashboard data-frame created in "Task 1" to the Postgres server hosted 
 1. Create a primary key to uniquely identify each row in the dataframe.
 2. Programmatically create a new schema for "Company X" called "company_x".
 3. Insert the "dashboard" dataframe into a table named "general_dashboard" within the "company_x" schema.
-4. BONUS: Translate insert operation into upsert using [pangres](https://github.com/ThibTrip/pangres)
+4. BONUS: Can you think of an alternative operation to "insert" that is friendlier to updates? Implement this new operation. (+15 points) 
 
 ## Task 4 - 40 Points
 ### Apache Superset
