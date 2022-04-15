@@ -11,20 +11,20 @@
 ## Task 1 - 40 Points
 ### Identity  and Segment all the artifacts
 
-There are different types of artifacts in these creative. This task revolves around segmenting the following artifacts:
-1. Text Blocks:  title, headers, trademarks, etc.
+There are different types of artifacts in these creatives. This task revolves around segmenting the following artifacts:
+1. Text Elements:  title, headers, product descriptions, trademarks, etc.
 2. Humans: humans/models present on the creative. 
 
-The final output from this step will be a set of binary masks that defines the background and these set of artifacts.
+The final output from this step will be a set of binary masks that differentiate these set of artifacts from the background.
 
 
 ## Task 2 - 40 Points
 ### Remove the Identified artifacts and Inpaint
  
-**Image Inpainting** is a task of reconstructing missing regions in an image. Using the generated masks from the previous steps, remove the artefacts from the creatives and  use [Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://saic-mdal.github.io/lama-project/)  to fill in the removed artifacts. This would a generate a much more consistent background. 
+**Image Inpainting** is a task of reconstructing missing regions in an image. Using the generated masks from the previous steps, remove the artifacts from the creatives and  use [Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://saic-mdal.github.io/lama-project/)  to fill in the removed artifacts. This would help us recover the background of our creative. 
 
 The output from this step will be as follows:
-1. Artifacts identified/segmented in the last step
+1. Artifacts identified/segmented in each creative of the test set(Follows from Task 1).
 2. A background for each example creative present in the test set.
 
 ![tasks](https://github.com/MaayaLabs/internship_challenges/blob/main/computer_vision/img/impainting.png?raw=true)
