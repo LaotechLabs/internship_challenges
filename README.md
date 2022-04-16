@@ -17,7 +17,10 @@ This repo comprises of the challenge problems that an applicant needs to solve i
 2. Incomplete solutions are also accepted as long as they are honest. 
 3. Once you are done solving the problem please share the github link to your codebase and a video demonstrating the
  final outcome. All solutions should be submitted at **submissions@maayalabs.com**
+ 4. **There is no hard deadline for these tasks. But ideally solving these problems should not take more than a week.**
 
 **You can reach out to us on **submissions@maayalabs.com** if you have any queries.*
+
+Happy Coding!!!
 
 
