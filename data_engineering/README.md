@@ -17,7 +17,7 @@
 
 ```
 Hint: Its not necessary to use all of the above datasets in the tasks below. Figuring out what various fields in
- data mean and the relevance of datasets for problem at hand are necessary skills any data enginner
+ data mean and the relevance of datasets for problem at hand are necessary skills for any data enginner
   ```
 
 ## Tasks
