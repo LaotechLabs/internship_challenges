@@ -7,6 +7,7 @@ This repo comprises of the challenge problems that an applicant needs to solve i
 1. Please solve the problem as per the position you are applying to. 
     - [Data Engineering](data_engineering) If you are applying for the position of Data Engineer.
     - [Computer Vision](computer_vision) If you are applying for the position of Computer Vision Engineer.
+    - [Front-End](frontend) If you are applying for the position of Front-End Developer.
 
 2. Please attempt the problem honestly. While we encourage you to take help from online portals or your friends/colleagues, blatant plagiarism will lead to disqualification. 
 
