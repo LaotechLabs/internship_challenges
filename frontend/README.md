@@ -16,4 +16,4 @@
 https://user-images.githubusercontent.com/9394461/170193426-5147704d-06fd-478f-a2f4-d347b5f53265.mp4
 
 ## Task 2 (30 points)
-### BONUS: Repeat Task 1 with any other JS library/framework of your choice
+### Repeat Task 1 with any other JS library/framework of your choice
