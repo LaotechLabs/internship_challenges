@@ -1,6 +1,6 @@
 # Internship Challenges
 This repo comprises of the challenge problems that an applicant needs to solve in order
- to be considered for an internship at Maaya Labs.
+ to be considered for an internship at Laotech Labs.
  
 ## General Instructions
 
